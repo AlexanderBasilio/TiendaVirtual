@@ -1,0 +1,245 @@
+{
+    "perfiles": [
+        {
+            "id": 1,
+            "nombre": "Nike Sacai",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Bajas",
+            "descripcion": "Zapatillas en escala de grises de corte bajo",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/sacai.png"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Jordan 3 Ivory",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Altas",
+            "descripcion": "Zapatillas color blanco de corte alto",
+            "marca": "Jordan",
+            "disponibilidad": true,
+            "imagen": "images/jordan-ivory.png"
+        },
+
+        {
+            "id": 3,
+            "nombre": "SB-DUNK big money",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Bajas",
+            "descripcion": "Zapatillas color marrón de corte bajo",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/sb-dunk-big-money.png"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Nike Zegama",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/zegama.png"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Nike Calm",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/calm.png"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Jordan 1 Mid",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/jordan1-mid.png"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Nike airmax 7",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/airmax-7-sean.png"    
+        },
+
+        {
+            "id": 8,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/blazer.png"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Puma",
+            "disponibilidad": true,
+            "imagen": "images/suede-iconix.png"
+        },
+
+        {
+            "id": 10,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 14,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoría": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 16,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "Categoria": "Sopas",
+            "Descripcion": "Pasta con salsa verde",
+            "Marca": "Nike",
+            "Disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 17,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 18,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 19,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        },
+
+        {
+            "id": 20,
+            "nombre": "Frontend Developer Junior",
+            "precio": 2000,
+            "stock": true,
+            "categoria": "Sopas",
+            "descripcion": "Pasta con salsa verde",
+            "marca": "Nike",
+            "disponibilidad": true,
+            "imagen": "images/"
+        }
+
+
+    ]
+}
